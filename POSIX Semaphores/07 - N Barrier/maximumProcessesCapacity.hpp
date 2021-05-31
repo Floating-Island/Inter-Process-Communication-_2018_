@@ -1,0 +1,1 @@
+const int MAXIMUM_BARRIER_QUANTITY = 3;
